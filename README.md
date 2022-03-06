@@ -6,3 +6,4 @@ Ini adalah aplikasi untuk melakukan trading, dengan bahasa python dan html. Trad
 
 Habibie Faried
 Anonymous
+Fulan bin Fulan
